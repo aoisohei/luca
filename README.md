@@ -69,12 +69,29 @@ Versions :  ![](https://img.shields.io/badge/Langue-Russian-blue)
 12. Не заслуживает доверия \ Distrusted
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 align='center'>Partie 1.</h3>
 <h1 align='center'>DataSet</h1>
 
 
-<p align='center'>Tache principale:</p><br>
-**<h3 align='center'>Trouve boeucoup des donées</h3>** <br>
+<p align='center'>Tache principale: **_Trouve boeucoup des donées_** </p><br>
+  
 Là ce sont mes notes sur les persoones qui ont déjà appris cette question :<br>
 - Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013<br>
 - Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data<br>
