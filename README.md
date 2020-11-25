@@ -1,6 +1,5 @@
 <h1 align='center'>Luca <br><br>  Распазнование человеческих эмоций<br> </h1> 
- 
-![](https://img.shields.io/badge/project-r1__elements-blue)
+  
 
 ![](https://img.shields.io/badge/Windows-10-green) ![](https://img.shields.io/badge/Anaconda-3-green) ![](https://img.shields.io/badge/CUDA-10.1.-orange) ![](https://img.shields.io/badge/cuDNN-7.6.5-orange) ![](https://img.shields.io/badge/Python-3.8-blue) ![](https://img.shields.io/badge/TensorFlow-2.3.0-yellow) ![](https://img.shields.io/badge/TensorFlow-2.2.0-yellow) ![](https://img.shields.io/badge/Api-Custom%20Object%20Detection-blueviolet) ![](https://img.shields.io/badge/Year%20of%20creation-2020-blueviolet)
 
