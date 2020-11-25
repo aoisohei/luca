@@ -6,11 +6,11 @@
 ![](https://img.shields.io/badge/Windows-10-green) ![](https://img.shields.io/badge/Anaconda-3-green) ![](https://img.shields.io/badge/CUDA-10.1.-orange) ![](https://img.shields.io/badge/cuDNN-7.6.5-orange) ![](https://img.shields.io/badge/Python-3.8-blue) ![](https://img.shields.io/badge/TensorFlow-2.3.0-yellow) ![](https://img.shields.io/badge/TensorFlow-2.2.0-yellow) ![](https://img.shields.io/badge/Api-Custom%20Object%20Detection-blueviolet) ![](https://img.shields.io/badge/Year%20of%20creation-2020-blueviolet)
 
 
-<h3>Plan </h3>
-*<h3> 0. Idée  </h3>
-*<h3> 1. DataSet  </h3>
-*<h3> 2. Model</h3>
-*<h3> 3. Result</h3>
+### Plan 
+### _0.Idée_
+### _1. DataSet _ 
+### _2. Model_
+### _3. Result_
 
 Versions :
 
@@ -19,6 +19,15 @@ Versions :
 ![](https://img.shields.io/badge/Langue-Fran%C3%A7ais-red)<br>
 
 ![](https://img.shields.io/badge/Langue-English-green)
+
+
+
+
+
+
+
+
+
 
 <h3 align='center'>Partie 0.</h3>
 <h1 align='center'>Idée</h1>
@@ -66,6 +75,47 @@ Versions :
 12. Не заслуживает доверия \ Distrusted
 
 ***
+ 
+<h3 align='center'>Partie 1.</h3>
+<h1 align='center'>DataSet</h1>
+
+
+<p align='center'>Tache principale:</p>
+**<h3 align='center'>Trouve boeucoup des donées</h3>**
+***
+Là ce sont mes notes sur les persoones qui ont déjà appris cette question :
+- Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013
+- Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data
+- Ici il y beaucoup d'audios :
+  - https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee 
+  - https://www.kaggle.com/ejlok1/cremad
+  - https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio 
+  - https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
+- https://www.kaggle.com/shivamburnwal/speech-emotion-recognition
+- Un model - https://www.kaggle.com/ritzing/speech-emotion-recognition-with-cnn
+- Training of model - https://www.kaggle.com/ejlok1/audio-emotion-part-3-baseline-model
+- Les sons - https://www.kaggle.com/iwilldoit/emotions-sensor-data-set
+- Les mots - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp 
+- Les etats - https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
+- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn/comments
+- https://www.kaggle.com/nikitaivanov/predicting-emotions
+- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta
+- https://www.kaggle.com/hexmag/emotion-sensor
+- https://www.kaggle.com/dataturks/face-dataset-with-age-emotion-ethnicity
+- https://www.kaggle.com/sankha1998/emotion
+- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
+- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn
+- https://www.kaggle.com/sanikamal/predict-emotional-sentiment
+
+P.S.:
+Свои вопросы Луке:
+- Какая втоя любимоя музыка ? (что любишь слушать)
+- Как запихнуть слона в холодильник
+ 
+ 
+<h3 align='center'>Partie 2.</h3>
+<h1 align='center'>Model</h1>
+
 
 ### Intruduction
 
@@ -124,38 +174,8 @@ Setting up Anaconda, CUDA, and cuDNN
 
 Setting up Anaconda, CUDA, and cuDNN
 
-*** 
-#### 1. DataSet 
-***
-<p align='center'>Tache principale:</p>
-**<h3 align='center'>Trouve boeucoup des donées</h3>**
-***
-Là ce sont mes notes sur les persoones qui ont déjà appris cette question :
-- Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013
-- Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data
-- Ici il y beaucoup d'audios :
-  - https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee 
-  - https://www.kaggle.com/ejlok1/cremad
-  - https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio 
-  - https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
-- https://www.kaggle.com/shivamburnwal/speech-emotion-recognition
-- Un model - https://www.kaggle.com/ritzing/speech-emotion-recognition-with-cnn
-- Training of model - https://www.kaggle.com/ejlok1/audio-emotion-part-3-baseline-model
-- Les sons - https://www.kaggle.com/iwilldoit/emotions-sensor-data-set
-- Les mots - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp 
-- Les etats - https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
-- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn/comments
-- https://www.kaggle.com/nikitaivanov/predicting-emotions
-- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta
-- https://www.kaggle.com/hexmag/emotion-sensor
-- https://www.kaggle.com/dataturks/face-dataset-with-age-emotion-ethnicity
-- https://www.kaggle.com/sankha1998/emotion
-- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
-- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn
-- https://www.kaggle.com/sanikamal/predict-emotional-sentiment
 
-Свои вопросы Луке
-#### Model
-#### Result
+<h3 align='center'>Partie 3.</h3>
+<h1 align='center'>Result</h1> 
 
 
