@@ -89,8 +89,7 @@ Versions :  ![](https://img.shields.io/badge/Langue-Russian-blue)
 <h3 align='center'>Partie 1.</h3>
 <h1 align='center'>DataSet</h1>
 
-
-<p align='center'>Tache principale: **_Trouve boeucoup des donées_** </p><br>
+<p align='center'>Tache principale: <b><i>Trouve boeucoup des donées</i></b></p><br>
   
 Là ce sont mes notes sur les persoones qui ont déjà appris cette question :<br>
 - Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013<br>
