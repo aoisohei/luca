@@ -8,9 +8,9 @@
 
 ### Plan 
 ### _0.Idée_
-### _1. DataSet _ 
-### _2. Model_
-### _3. Result_
+### _1.DataSet _ 
+### _2.Model_
+### _3.Result_
 
 Versions :
 
