@@ -1,12 +1,16 @@
-<h1 align='center'># Luca</h1>
+<h1 align='center'>Luca</h1>
+<h1 align='center'>Luca : Распазнование человеческих эмоций</h1>
  
-## Idée 
-
-# Luca : Распазнование человеческих эмоций
-
 ![](https://img.shields.io/badge/project-r1__elements-blue)
 
 ![](https://img.shields.io/badge/Windows-10-green) ![](https://img.shields.io/badge/Anaconda-3-green) ![](https://img.shields.io/badge/CUDA-10.1.-orange) ![](https://img.shields.io/badge/cuDNN-7.6.5-orange) ![](https://img.shields.io/badge/Python-3.8-blue) ![](https://img.shields.io/badge/TensorFlow-2.3.0-yellow) ![](https://img.shields.io/badge/TensorFlow-2.2.0-yellow) ![](https://img.shields.io/badge/Api-Custom%20Object%20Detection-blueviolet) ![](https://img.shields.io/badge/Year%20of%20creation-2020-blueviolet)
+
+
+**<h3 align='center'>#### Plan  </h3>**
+<h3 align='center'>#### 0. Idée  </h3>
+<h3 align='center'>#### 1. DataSet  </h3>
+<h3 align='center'>#### 2. Model</h3>
+<h3 align='center'>#### 3. Result</h3>
 
 Versions :
 
@@ -16,13 +20,9 @@ Versions :
 
 ![](https://img.shields.io/badge/Langue-English-green)
 
-
-
-# Luca : Распазнование человеческих эмоций
-
+<h3 align='center'>Partie 0.</h3>
+<h1 align='center'>Idée</h1>
 ![](https://img.shields.io/badge/Langue-Russian-blue)
-
-### Idea
 
 Все, кто знает игру Детроит, могли заметить, как в игре показывают в правом верхнем отношения между персонажами, напимер Отношение Хэнка к конору или отношени Иерихна к Маркусу. Это наталкнуло меня на мысль, что в любом роботе должна была внедрена программа, которая отвечаеи за понимание этих самых отношений, распазнавала бы эти самые отношения между людьми и распазнавала отношение человека к роботу, в котором внедреннв эта программа.<br>
 
@@ -51,7 +51,6 @@ Versions :
 7. Подчинение\Прислуживвание
 
 ##### 3. А так же, конечно приложение будет распазновать уровни отношения человека, как этот делалось в Детроите, а потому я собрала все омоции, которые фигурировали в этой игре, а именно:
-
 
 1. Лидер \ Leader(Admired)
 2. Уважение \ Respected
@@ -125,13 +124,7 @@ Setting up Anaconda, CUDA, and cuDNN
 
 Setting up Anaconda, CUDA, and cuDNN
 
-
-<h3 align='center'>#### 1. DataSet  </h1>
-<h3 align='center'>#### 2. Model</h1>
-<h3 align='center'>#### 3. Result</h1>
-
-***
-## Progress :
+*** 
 #### 1. DataSet 
 ***
 <p align='center'>Tache principale:</p>
