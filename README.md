@@ -7,10 +7,10 @@
 
 
 ### Plan 
-### _0.Idée_
-### _1.DataSet _ 
-### _2.Model_
-### _3.Result_
+ - ### _Idée_
+ - ### _DataSet_ 
+ - ### _Model_
+ - ### _Result_
 
 Versions :
 
