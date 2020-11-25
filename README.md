@@ -73,36 +73,36 @@ Versions :  ![](https://img.shields.io/badge/Langue-Russian-blue)
 <h1 align='center'>DataSet</h1>
 
 
-<p align='center'>Tache principale:</p>
-**<h3 align='center'>Trouve boeucoup des donées</h3>** 
-Là ce sont mes notes sur les persoones qui ont déjà appris cette question :
-- Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013
-- Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data
-- Ici il y beaucoup d'audios :
-  - https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee 
-  - https://www.kaggle.com/ejlok1/cremad
-  - https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio 
-  - https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
-- https://www.kaggle.com/shivamburnwal/speech-emotion-recognition
-- Un model - https://www.kaggle.com/ritzing/speech-emotion-recognition-with-cnn
-- Training of model - https://www.kaggle.com/ejlok1/audio-emotion-part-3-baseline-model
-- Les sons - https://www.kaggle.com/iwilldoit/emotions-sensor-data-set
-- Les mots - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp 
-- Les etats - https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
-- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn/comments
-- https://www.kaggle.com/nikitaivanov/predicting-emotions
-- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta
-- https://www.kaggle.com/hexmag/emotion-sensor
-- https://www.kaggle.com/dataturks/face-dataset-with-age-emotion-ethnicity
-- https://www.kaggle.com/sankha1998/emotion
-- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments
-- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn
-- https://www.kaggle.com/sanikamal/predict-emotional-sentiment
+<p align='center'>Tache principale:</p><br>
+**<h3 align='center'>Trouve boeucoup des donées</h3>** <br>
+Là ce sont mes notes sur les persoones qui ont déjà appris cette question :<br>
+- Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013<br>
+- Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data<br>
+- Ici il y beaucoup d'audios :<br>
+  - https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee <br>
+  - https://www.kaggle.com/ejlok1/cremad<br>
+  - https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio <br>
+  - https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess<br>
+- https://www.kaggle.com/shivamburnwal/speech-emotion-recognition<br>
+- Un model - https://www.kaggle.com/ritzing/speech-emotion-recognition-with-cnn<br>
+- Training of model - https://www.kaggle.com/ejlok1/audio-emotion-part-3-baseline-model<br>
+- Les sons - https://www.kaggle.com/iwilldoit/emotions-sensor-data-set<br>
+- Les mots - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp <br>
+- Les etats - https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments<br>
+- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn/comments<br>
+- https://www.kaggle.com/nikitaivanov/predicting-emotions<br>
+- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta<br>
+- https://www.kaggle.com/hexmag/emotion-sensor<br>
+- https://www.kaggle.com/dataturks/face-dataset-with-age-emotion-ethnicity<br>
+- https://www.kaggle.com/sankha1998/emotion<br>
+- https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments<br>
+- https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn<br>
+- https://www.kaggle.com/sanikamal/predict-emotional-sentiment<br>
 
 P.S.:
-Свои вопросы Луке:
-- Какая втоя любимоя музыка ? (что любишь слушать)
-- Как запихнуть слона в холодильник
+Свои вопросы Луке:<br>
+- Какая втоя любимоя музыка ? (что любишь слушать)<br>
+- Как запихнуть слона в холодильник<br>
  
  
 <h3 align='center'>Partie 2.</h3>
