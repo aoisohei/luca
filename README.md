@@ -1,5 +1,4 @@
-<h1 align='center'>Luca</h1>
-<h1 align='center'>Luca : Распазнование человеческих эмоций</h1>
+<h1 align='center'>Luca <br> Распазнование человеческих эмоций</h1> 
  
 ![](https://img.shields.io/badge/project-r1__elements-blue)
 
