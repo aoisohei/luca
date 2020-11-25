@@ -12,9 +12,7 @@ Partie 3.  **_Result_**<br>
 Versions :
 
 ![](https://img.shields.io/badge/Langue-Russian-blue) 
-
 ![](https://img.shields.io/badge/Langue-Fran%C3%A7ais-red) 
-
 ![](https://img.shields.io/badge/Langue-English-green)
 
 
