@@ -24,7 +24,8 @@ Versions :  ![](https://img.shields.io/badge/Langue-Russian-blue)
 
 <h3 align='center'>Partie 0.</h3>
 <h1 align='center'>Idée</h1>
-![](https://img.shields.io/badge/Langue-Russian-blue)
+
+![](https://img.shields.io/badge/Langue-Russian-blue) 
 
 Все, кто знает игру Детроит, могли заметить, как в игре показывают в правом верхнем отношения между персонажами, напимер Отношение Хэнка к конору или отношени Иерихна к Маркусу. Это наталкнуло меня на мысль, что в любом роботе должна была внедрена программа, которая отвечаеи за понимание этих самых отношений, распазнавала бы эти самые отношения между людьми и распазнавала отношение человека к роботу, в котором внедреннв эта программа.<br>
 
@@ -66,16 +67,14 @@ Versions :  ![](https://img.shields.io/badge/Langue-Russian-blue)
 10. Близкие отношения \ Close
 11. Напряженные отшношения \ Tense
 12. Не заслуживает доверия \ Distrusted
-
-***
+ 
  
 <h3 align='center'>Partie 1.</h3>
 <h1 align='center'>DataSet</h1>
 
 
 <p align='center'>Tache principale:</p>
-**<h3 align='center'>Trouve boeucoup des donées</h3>**
-***
+**<h3 align='center'>Trouve boeucoup des donées</h3>** 
 Là ce sont mes notes sur les persoones qui ont déjà appris cette question :
 - Need explore image of emotion : https://www.kaggle.com/gauravsharma99/facial-emotion-recognition?select=fer2013
 - Audio Imachine https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data
@@ -128,8 +127,7 @@ P.S.:
 * [https://www.youtube.com/watch?v=oqd54apcgGE&t=1291s](https://www.youtube.com/watch?v=oqd54apcgGE&t=1291s) ,
 * [https://github.com/armaanpriyadarshan/Training-a-Custom-TensorFlow-2.x-Object-Detector](https://github.com/armaanpriyadarshan/Training-a-Custom-TensorFlow-2.x-Object-Detector)<br>
 Все файлы, которые я скачивала или и сохраняла отдельно на гугл диске.
-
-***
+ 
 
 ### Setting up Anaconda, CUDA, and cuDNN
 
