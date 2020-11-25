@@ -9,7 +9,7 @@ Partie 1.  **_DataSet_**<br>
 Partie 2.  **_Model_**<br>
 Partie 3.  **_Result_**<br>
 
-Versions :
+Versions : 
 
 ![](https://img.shields.io/badge/Langue-Russian-blue) 
 ![](https://img.shields.io/badge/Langue-Fran%C3%A7ais-red) 
