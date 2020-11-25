@@ -114,6 +114,8 @@ Là ce sont mes notes sur les persoones qui ont déjà appris cette question :<b
 - https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta/comments<br>
 - https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn<br>
 - https://www.kaggle.com/sanikamal/predict-emotional-sentiment<br>
+<br>
+- images - https://www.kaggle.com/msambare/fer2013<br>
 
 P.S.:
 Свои вопросы Луке:<br>
