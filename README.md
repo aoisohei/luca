@@ -116,6 +116,7 @@ Là ce sont mes notes sur les persoones qui ont déjà appris cette question :<b
 - https://www.kaggle.com/sanikamal/predict-emotional-sentiment<br>
 <br>
 - images - https://www.kaggle.com/msambare/fer2013<br>
+- https://research.google/tools/datasets/google-facial-expression/
 
 P.S.:
 Свои вопросы Луке:<br>
