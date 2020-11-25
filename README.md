@@ -1,8 +1,7 @@
 <h1 align='center'># Luca</h1>
+ 
+## Idée 
 
-***
-## Idée
-***
 # Luca : Распазнование человеческих эмоций
 
 ![](https://img.shields.io/badge/project-r1__elements-blue)
@@ -17,7 +16,7 @@ Versions :
 
 ![](https://img.shields.io/badge/Langue-English-green)
 
-***
+
 
 # Luca : Распазнование человеческих эмоций
 
