@@ -7,10 +7,10 @@
 
 
 <h3>Plan </h3>
-<h3>* 0. Idée  </h3>
-<h3>* 1. DataSet  </h3>
-<h3>* 2. Model</h3>
-<h3>* 3. Result</h3>
+*<h3> 0. Idée  </h3>
+*<h3> 1. DataSet  </h3>
+*<h3> 2. Model</h3>
+*<h3> 3. Result</h3>
 
 Versions :
 
